@@ -1,0 +1,100 @@
+{
+  "name": "Lopicl's App Store",
+  "iconURL": "https://github.com/Lopicl/AltStore-Repo/blob/main/icon.jpeg?raw=true",
+  "website": "https://github.com/Lopicl",
+  "tintColor": "#BA85EC",
+  "apps": [
+    {
+      "name": "FileCat",
+      "bundleIdentifier": "com.lopicl.FileCat",
+      "developerName": "Lopicl",
+      "localizedDescription": "A simple, yet powerful File Manager for iOS and iPadOS",
+      "localizedDescriptions": {
+        "en": "A simple, yet powerful File Manager for iOS and iPadOS",
+        "it": "Un File Manager semplice, ma potente"
+      },
+      "iconURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/icon-86d3e723-fd7d-4cc6-9dc3-47f620ec4e3a.png",
+      "category": "utilities",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/iphone/com.lopicl.FileCat-iphone-8f5bb71b-5c5c-4cc1-8401-5a59eed59adc.png",
+            "width": 1206,
+            "height": 2622
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/iphone/com.lopicl.FileCat-iphone-3188f822-b97c-47e7-91a4-90d97f2c7929.png",
+            "width": 1206,
+            "height": 2622
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/iphone/com.lopicl.FileCat-iphone-e78f5f6f-2822-4593-a283-fc29120bf2f0.png",
+            "width": 1206,
+            "height": 2622
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/iphone/com.lopicl.FileCat-iphone-dc85f035-3304-4e1d-88ee-a53bc5de7015.png",
+            "width": 1206,
+            "height": 2622
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/iphone/com.lopicl.FileCat-iphone-5f69e513-afb3-4527-98d8-c0894a876263.png",
+            "width": 1206,
+            "height": 2622
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/ipad/com.lopicl.FileCat-ipad-2310da83-61e7-4458-94fc-803b62cf2c51.png",
+            "width": 2420,
+            "height": 1668
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/ipad/com.lopicl.FileCat-ipad-cef0cd93-46ac-4b32-bf6f-87a4710fdf79.png",
+            "width": 2420,
+            "height": 1668
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/ipad/com.lopicl.FileCat-ipad-f648e850-857f-49c2-be8c-0b8eb9dc2650.png",
+            "width": 2420,
+            "height": 1668
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/ipad/com.lopicl.FileCat-ipad-7d4f89eb-cb1b-4377-9fa0-900fca044e55.png",
+            "width": 2420,
+            "height": 1668
+          },
+          {
+            "imageURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/ipad/com.lopicl.FileCat-ipad-e8dac6fa-e8e3-454b-9139-9bbf538ae264.png",
+            "width": 2420,
+            "height": 1668
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "9",
+          "date": "2026-09-29T14:45:42Z",
+          "downloadURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/com.lopicl.FileCat/1.0-9/FileCat.ipa",
+          "size": 1125269,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "1.0",
+          "buildVersion": "8",
+          "date": "2026-09-29T10:45:13Z",
+          "downloadURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/com.lopicl.FileCat/1.0-8/FileCat.ipa",
+          "size": 1085857,
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "FileCat connects to file servers on your network (SMB, NFS and WebDAV) and finds nearby ones."
+        }
+      }
+    }
+  ]
+}

@@ -74,6 +74,14 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "23",
+          "date": "2026-09-30T16:09:25Z",
+          "downloadURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/com.lopicl.FileCat/1.0-23/FileCat.ipa",
+          "size": 1577320,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "16",
           "date": "2026-09-30T09:09:18Z",
           "downloadURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/com.lopicl.FileCat/1.0-16/FileCat.ipa",
@@ -120,6 +128,14 @@
         "ipad": []
       },
       "versions": [
+        {
+          "version": "0.1",
+          "buildVersion": "8",
+          "date": "2026-09-30T16:09:25Z",
+          "downloadURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/MusiCat/com.lopicl.MusiCat/0.1-8/MusiCat.ipa",
+          "size": 870795,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "0.1",
           "buildVersion": "3",

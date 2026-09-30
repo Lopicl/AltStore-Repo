@@ -74,6 +74,14 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "16",
+          "date": "2026-09-30T09:09:18Z",
+          "downloadURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/com.lopicl.FileCat/1.0-16/FileCat.ipa",
+          "size": 1527613,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "9",
           "date": "2026-09-29T14:45:42Z",
           "downloadURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/FileCat/com.lopicl.FileCat/1.0-9/FileCat.ipa",
@@ -93,6 +101,38 @@
         "entitlements": [],
         "privacy": {
           "NSLocalNetworkUsageDescription": "FileCat connects to file servers on your network (SMB, NFS and WebDAV) and finds nearby ones."
+        }
+      }
+    },
+    {
+      "name": "MusiCat",
+      "bundleIdentifier": "com.lopicl.MusiCat",
+      "developerName": "Lopicl",
+      "localizedDescription": "A hi-res music player for your FileCat library and the servers you added in FileCat",
+      "localizedDescriptions": {
+        "en": "A hi-res music player for your FileCat library and the servers you added in FileCat",
+        "it": "Un lettore musicale hi-res per la libreria di FileCat e i server aggiunti in FileCat"
+      },
+      "iconURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/MusiCat/icon-d9c52ad1-501d-4cbf-b049-da9eb72fd5a0.png",
+      "category": "entertainment",
+      "screenshots": {
+        "iphone": [],
+        "ipad": []
+      },
+      "versions": [
+        {
+          "version": "0.1",
+          "buildVersion": "3",
+          "date": "2026-09-30T09:09:18Z",
+          "downloadURL": "https://raw.githubusercontent.com/Lopicl/AltStore-Repo/main/Apps/MusiCat/com.lopicl.MusiCat/0.1-3/MusiCat.ipa",
+          "size": 708469,
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "MusiCat plays music from the servers on your network that you added in FileCat (SMB, NFS and WebDAV)."
         }
       }
     }
